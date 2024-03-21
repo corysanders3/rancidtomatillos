@@ -1,11 +1,12 @@
 import { useState } from 'react';
 import './Card.css';
 
-function Card({ title, id, poster, avgRating, displayMovie }) {
+function Card({ title, id, poster, avgRating, displayMovie, setSelectionMade }) {
     const [clicked, setClicked] = useState('');
 
     function handleClick(id) {
         setClicked('clicked')
+        setSelectionMade(title)
         displayMovie(id)
     }
 
