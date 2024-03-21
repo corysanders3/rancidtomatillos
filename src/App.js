@@ -11,7 +11,7 @@ function App() {
   function displayMovie(id) {
     console.log(`displayMovie ${id}`)
   }
-  
+  //rewrite this with with ternary
   if (!selection) {
     return (
       <main className='main'>
