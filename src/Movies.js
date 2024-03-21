@@ -1,7 +1,7 @@
 import './Movies.css';
 import Card from './Card';
 
-function Movies({ movies, displayMovie, setSelectionMade }) {
+function Movies({ movies, displayMovie, setSelection }) {
     const movieCards = 
     movies.map(movie => {
         return (
@@ -12,7 +12,7 @@ function Movies({ movies, displayMovie, setSelectionMade }) {
                 id={movie.id}
                 key={movie.id}
                 displayMovie={displayMovie}
-                setSelectionMade={setSelectionMade}
+                setSelection={setSelection}
             />
         )
     });
