@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import './Movies.css';
 import Card from './Card';
 
