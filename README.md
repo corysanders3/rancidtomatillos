@@ -10,6 +10,7 @@
 </div>
 
 ## Preview:
+![](https://github.com/corysanders3/rancidtomatillos/blob/main/Rancid%20Demo.gif)
 <div align="center">
   <!-- <img src="" alt="app demo"> -->
   <img style="width: 500px" src="https://github.com/corysanders3/rancidtomatillos/assets/76406423/62dc5988-8db1-457b-b2c8-fb4cc22db22e" alt="tablet view">
