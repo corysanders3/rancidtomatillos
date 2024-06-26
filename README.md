@@ -29,7 +29,7 @@
 </div>
 
 ## Installation Instructions:
-- Visit the deployed [link](https://corysanders3.github.io/rancidtomatillos/)
+- Visit the deployed [link](https://rancidtomatillos-liard.vercel.app/)
 - OR run the following on command line to clone the repo and run the app locally:
     ```
     git clone git@github.com:corysanders3/rancidtomatillos.git
